@@ -1,5 +1,5 @@
 import os
-import time
+import timeHH
 import shutil
 import torch.utils.data
 import torch.nn.parallel
